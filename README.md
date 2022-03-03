@@ -27,7 +27,7 @@ int main```
 
 List
 ----
-```python
+hehehehhrhrhehrh```python
 <list> = <list>[<slice>]       # Or: <list>[from_inclusive : to_exclusive : ±step]
 ```
 
