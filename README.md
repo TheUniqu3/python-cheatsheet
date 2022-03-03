@@ -28,7 +28,7 @@ sadasdsadsadsad```
 
 List
 ----
-```python
+asdsadsadasd```python
 <list> = <list>[<slice>]       # Or: <list>[from_inclusive : to_exclusive : ±step]
 ```
 
