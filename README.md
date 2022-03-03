@@ -1,10 +1,8 @@
-Comprehensive Python Cheatsheet
-===============================
-<sup>[Download text file](www.github.com), [Buy PDF](https://transactions.sendowl.com/products/78175486/4422834F/view), [Fork me on GitHub](https://github.com/gto76/python-cheatsheet) or [Check out FAQ](https://github.com/gto76/python-cheatsheet/wiki/Frequently-Asked-Questions).
+
+<sup>[Download text file](https://google.com), [Buy PDF](https://transactions.sendowl.com/products/78175486/4422834F/view), [Fork me on GitHub](https://github.com/gto76/python-cheatsheet) or [Check out FAQ](https://github.com/gto76/python-cheatsheet/wiki/Frequently-Asked-Questions).
 </sup>
 
 ![Monty Python](web/image_888.jpeg)
-
 
 Contents
 --------
@@ -23,12 +21,20 @@ Main
 ```python
 if __name__ == '__main__':     # Runs main() if file wasn't imported.
     main()
+<<<<<<< HEAD
 sadasdsadsadsad```
+=======
+int main```
+>>>>>>> branch1
 
 
 List
 ----
+<<<<<<< HEAD
 asdsadsadasd```python
+=======
+hehehehhrhrhehrh```python
+>>>>>>> branch1
 <list> = <list>[<slice>]       # Or: <list>[from_inclusive : to_exclusive : ±step]
 ```
 
